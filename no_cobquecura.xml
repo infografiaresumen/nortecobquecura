@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<source_list
+ version="1.0"
+ creator="Global Mapper - http://www.globalmapper.com"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.globalmapper.com/OSL/1/0"
+ xsi:schemaLocation="http://www.globalmapper.com/OSL/1/0 http://www.globalmapper.com/OSL/1/0/gmc.xsd">
+
+<source type="GMAP">
+  <name>My Map Set Name</name>
+  <FileExt>png</FileExt>
+  <LatLonBounds>-72.8393554687,-36.1290016557,-72.8063964844,-36.1112525208</LatLonBounds>
+  <NumZoomLevels>20</NumZoomLevels>
+  <TileSize>256</TileSize>
+  <BaseURL><![CDATA[file:///C:/Users/usuario/Documents/google%20maps/Noroeste%20de%20Cobquecura/Z%z/%y/%x.png]]></BaseURL>
+  <NativeProj>EPSG:3857</NativeProj>
+  <MaxVersion>1301232</MaxVersion>
+</source>
+</source_list>
